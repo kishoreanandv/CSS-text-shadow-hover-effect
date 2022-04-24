@@ -1,0 +1,20 @@
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: black;
+  font-family: sans-serif;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+h1 {
+  text-shadow: 10px 10px 0 rgba(0, 0, 0, 1);
+  font-size: 100px;
+}
